@@ -24,5 +24,5 @@ export default new Router({
     //   component: vuex_test
     // }
   ],
-  mode:'history',
+  //mode:'history',
 })
